@@ -1,7 +1,9 @@
-Hello! My name is Anney and I'm a Full Stack Software Engineer in the DC Metropolitan Area!
+Hello World. My name is Anney and I'm a Full Stack Software Engineer in the DC Metropolitan Area. I'm open to relocating for the right opportunity.
 
-🎓  I received my education from Flatiron School's Full Stack Web Development, Ruby on Rails and JavaScript program.
+🎓  I received my Software Engineering education from Flatiron School's Full Stack Web Development, Ruby on Rails & JavaScript program.
 
-💻  I am currently working on building a social media messaging application using Ruby on Rails & React.js.
+💻  I am currently studying algorithms using courses on Udemy, Leetcode, Codewars & other online resources. 
 
-✨  I am curious & creative. I enjoy problem solving in programming & I channel my creative side with my photography business!
+✨  I’m currently looking to work in an environment where growth is strongly encouraged & where my curiosity is welcomed in the team. 
+
+
